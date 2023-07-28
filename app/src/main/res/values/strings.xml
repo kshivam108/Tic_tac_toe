@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic_tac_toe</string>
+    <string name="ttt">My Tic Tac Toe App</string>
+    <string name="grid">grid playground</string>
+    <string name="symbol1">symbol1</string>
+    <string name="symbol2">symbol2</string>
+    <string name="symbol3">symbol3</string>
+    <string name="tap">tap</string>
+    <string name="fortv">Welcome,its X\'s turn</string>
+    <string name="reset">reset</string>
+</resources>
